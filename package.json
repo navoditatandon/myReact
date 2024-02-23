@@ -1,0 +1,33 @@
+{
+  "name": "my_react",
+  "version": "1.0.0",
+  "description": "This is my react by Navodita Tandon",
+  "scripts": {
+    "start": "parcel index.html",
+    "build" : "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navoditatandon/myReact.git"
+  },
+  "keywords": [],
+  "author": "Navodita Tandon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navoditatandon/myReact/issues"
+  },
+  "homepage": "https://github.com/navoditatandon/myReact#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList": [
+    "Last 2 Chrome version",
+    "Last 2 Firefox version"
+  ]
+}
